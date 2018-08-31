@@ -25,7 +25,7 @@ SECRET_KEY = 'uxel^((fg#fje9suh)#iuxma-hdi^yqzyjrtdy%%aq&g4g6ks_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition

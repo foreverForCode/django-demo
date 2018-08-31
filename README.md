@@ -1,6 +1,4 @@
 
-## django turtor
+## django 1.11.x 官方教程
 
-### haved finished three
-
-
+## 
